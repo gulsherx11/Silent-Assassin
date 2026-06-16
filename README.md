@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Silent-Assassin
-AI-powered clipboard assistant with OpenRouter, Gemini, and Groq fallback support.
-=======
 # AI Silent Clipboard Assistant
 
 A Python clipboard assistant that:
@@ -26,4 +22,5 @@ python main.py
 ```
 
 Default hotkey: Crtl+Alt+a
->>>>>>> 9ce8d9b (Initial commit)
+# Silent-Assassin
+AI-powered clipboard assistant with OpenRouter, Gemini, and Groq fallback support.
