@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+.env
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+>>>>>>> 9ce8d9b (Initial commit)
